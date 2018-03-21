@@ -5,3 +5,4 @@ Git tracks changes of files
 Creating a new branch is quick and simple.
 Fast forward off mode
 conflict with others
+add /usr/bin/env
